@@ -1,0 +1,30 @@
+{
+    "ownerNumber": ["628978613993@s.whatsapp.net","628978613993@s.whatsapp.net"],
+    "ownerName": "Natzz",
+    "instagram" : "https://instagram.com/septiannhdnata_",
+    "gcwa" : "https://chat.whatsapp.com/HjPoA3EZ2mc22ngHjZJLbE",
+    "botName": "9knatzz-WBོ ",
+    "footer": "https://s.id/septiannhdnata",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "qxhq2DTny5h7UjS",
+    "OpenAIKey": "your openai key",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "antiDelete": true,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
